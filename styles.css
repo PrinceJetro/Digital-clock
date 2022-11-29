@@ -1,0 +1,15 @@
+.ss{
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    align-items: center;
+    flex-direction: column;
+    background-color: black;
+    color: aliceblue;
+}
+
+.lower h1{
+    font-size: 65px;
+    font-family: 'Rubik Microbe', cursive;
+    
+}
